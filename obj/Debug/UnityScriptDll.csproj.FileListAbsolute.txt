@@ -1,0 +1,7 @@
+/Users/yi/Developer/source/UnityScriptDll/bin/Debug/UnityScriptDll.dll
+/Users/yi/Developer/source/UnityScriptDll/bin/Debug/UnityScriptDll.pdb
+/Users/yi/Developer/source/UnityScriptDll/bin/Debug/UnityEngine.dll
+/Users/yi/Developer/source/UnityScriptDll/obj/Debug/UnityScriptDll.csprojResolveAssemblyReference.cache
+/Users/yi/Developer/source/UnityScriptDll/obj/Debug/UnityScriptDll.csproj.CoreCompileInputs.cache
+/Users/yi/Developer/source/UnityScriptDll/obj/Debug/UnityScriptDll.dll
+/Users/yi/Developer/source/UnityScriptDll/obj/Debug/UnityScriptDll.pdb

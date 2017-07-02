@@ -1,0 +1,4 @@
+/Users/yi/Developer/source/UnityScriptDll/bin/Release/UnityScriptDll.dll
+/Users/yi/Developer/source/UnityScriptDll/bin/Release/UnityEngine.dll
+/Users/yi/Developer/source/UnityScriptDll/obj/Release/UnityScriptDll.csproj.CoreCompileInputs.cache
+/Users/yi/Developer/source/UnityScriptDll/obj/Release/UnityScriptDll.dll
